@@ -78,3 +78,4 @@ O restante do trecho não explicado, já se percebe à lógica. Como `'https://t
 ## Imagens:
 ![](https://i.imgur.com/OPEdJ6O.png)
 ![](https://i.imgur.com/EtldFOc.png)
+![](https://i.imgur.com/sUC0pBh.png)
